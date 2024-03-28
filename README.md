@@ -4,7 +4,7 @@
 
 <!--**EbtisamElgerghani/EbtisamElgerghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- this section to add any relivant comment -->
+* *this is Read me file for Part2 practical task2* *
 
 This is about what I do now :
 

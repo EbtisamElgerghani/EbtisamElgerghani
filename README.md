@@ -1,5 +1,5 @@
-## Hi there 👋
-### Hi there 👋
+##### Hi there 👋
+#### Wellcome to my readme section!
 
 **EbtisamElgerghani/EbtisamElgerghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,7 @@ This is about what I do now :
 -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="C:\Users\44776\Documents\ARABIC\CLIPART\moon.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="C:\Users\44776\Documents\ARABIC\CLIPART\day.jpg">
+ <img alt="YOUR-ALT-TEXT" src="C:\Users\44776\Documents\ARABIC\CLIPART\dd.jpg">
 </picture>

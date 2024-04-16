@@ -1,9 +1,9 @@
-## Ebtisam Elgerghani
- # Hi there 👋 
-## Wellcome to my GitHub 
+# Ebtisam Elgerghani
+ ## Hi there 👋 
+# Wellcome to my GitHub 
 
-# this is read me section!
-# I'm a Data Science student aiming to start a career soon.
+##  this is read me section!
+##  I'm a Data Science student aiming to start a career soon.
 
 🔭 I’m currently working on improving my knowledge base and tailoring my skills for an exciting IT career.
 🌱 I’m currently learning coding and Data Science with HyperionDev and CoGrammar

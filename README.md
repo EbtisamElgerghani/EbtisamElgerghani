@@ -1,7 +1,13 @@
+## Ebtisam Elgerghani
+ # Hi there 👋 
+## Wellcome to my GitHub 
 
-# Hi there 👋
-## Wellcome to my readme section!
+# this is read me section!
+# I'm a Data Science student aiming to start a career soon.
 
+🔭 I’m currently working on improving my knowledge base and tailoring my skills for an exciting IT career.
+🌱 I’m currently learning coding and Data Science with HyperionDev and CoGrammar
+👯 I’m looking to collaborate on programming or data science projects.
 <!--**EbtisamElgerghani/EbtisamElgerghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 * *this is Read me file for Part2 practical task2* *
